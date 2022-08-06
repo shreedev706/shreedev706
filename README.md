@@ -14,8 +14,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_shreedev_sharma/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_shreedev_sharma/#gh-dark-mode-only)
 
-[![website](./img/instagram-light.svg)](https://www.facebook.com/sharmashreedev/)
-[![website](./img/instagram-dark.svg)](https://www.facebook.com/sharmashreedev/)
+
 ### Languages and Tools:
 
 # 💻 Tech Stack:
